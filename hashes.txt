@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Derrière L'amour
+
+This log tracks the cryptographic history and versioning for the song **Derrière L'amour** (derriere-lamour).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:53:39.218377 | `v1` | `311b1ae36e7ba446e30ac2d380dbf4ce9ae362915b68323be739ce157a7e2f0f` | `2603547f3e24d44f5771195e85aea0d74f63662b474d6691ba5af4be8b097972` | `2026-06-25_derriere-lamour-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

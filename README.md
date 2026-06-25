@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/derriere-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Derrière L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/derriere-lamour/) |
+| **Get License** | [Get License For Derrière L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/derriere-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `311b1ae36e7ba446e30ac2d380dbf4ce9ae362915b68323be739ce157a7e2f0f` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
